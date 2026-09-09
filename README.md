@@ -1,30 +1,44 @@
 # Hi, I'm Arefin
-  Computer Science Student  
-  Learning software development and exploring different areas of Computer Science
+
+**Computer Science Student**
+Learning programming and exploring different areas of Computer Science.
 
 ## About Me
 
-I'm currently studying Computer Science and building practical projects
-to develop my programming and software development skills.
+I'm a Computer Science student focused on building practical projects and developing my programming skills.
 
-I'm currently learning Python, APIs, Git and GitHub while exploring
-different areas of Computer Science.
+I'm currently learning **Python, FastAPI, Git, and GitHub**, while exploring different areas of Computer Science and discovering what I'm most interested in.
+
+I enjoy learning by building things, experimenting with new technologies, and improving my understanding through hands-on projects.
 
 ## Currently Learning
 
-- Python
-- FastAPI
-- REST APIs
-- Git & GitHub
+* Python
+* FastAPI
+* Git & GitHub
 
-##  Projects
+## Projects
 
 Projects coming soon...
 
-##  Skills
+I'm currently working on building projects to put my skills into practice. Check back soon.
 
-**Languages:**  
-Python
+## Skills
 
-**Tools & Technologies:**  
-Git, GitHub, FastAPI
+**Languages**
+
+* Python
+
+**Tools & Technologies**
+
+* FastAPI
+* Git
+* GitHub
+
+## Goals
+
+* Build practical projects
+* Improve my Python skills
+* Explore different areas of Computer Science
+* Learn new technologies
+* Continue developing as a programmer
